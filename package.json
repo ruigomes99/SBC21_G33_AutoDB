@@ -1,0 +1,15 @@
+{
+  "name": "sbc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node run.js",
+    "startDev": "nodemon run.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.16.9"
+  }
+}
