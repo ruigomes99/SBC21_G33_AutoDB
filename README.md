@@ -4,7 +4,7 @@ Este repositório foi concedido para guardar e partilhar o código para escrita 
 Este Script foi construída no âmbito de um projeto pelo grupo 33 da unidade curricular Sistemas Baseados em Conhecimento 2020/2021 do curso de MIEGSI da Universidade do Minho.
 
 ## Outros Repositórios
- - [Frondend da Web App](link);
+ - [Frondend da Web App](https://github.com/JoaoTeixeira89218/SBC21_G33_WebApp);
  - [API da Web App](https://github.com/ruigomes99/SBC21_G33_API).
 
 ## Tecnologia Utilizada
@@ -38,7 +38,7 @@ No final da execução, irá aparecer os ficheiros '.pl' na diretoria '/prolog/A
 
 ## Agradecimentos
  - [Paulo Cortez](http://www3.dsi.uminho.pt/pcortez/Home.html);
- - [Filipa Portela](https://filipeportela.com/).
+ - [Filipe Portela](https://filipeportela.com/).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
